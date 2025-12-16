@@ -1,5 +1,5 @@
-<h1 align="center">Albert</h1>
-<h3>Senior Full Stack Developer / React, Vue, Node, Python, PHP</h3>
+<h1 align="center">Kevin</h1>
+<h3>Senior Software Engineer / React, Vue, Node, JavaScript, TypeScript, GraphQL, AWS, GCP / 10 years</h3>
 
 <p>
 I build scalable, full-stack applications that help startups and businesses move faster—with clean, maintainable code and cloud-native architecture that’s ready to grow.
