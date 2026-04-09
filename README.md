@@ -7,7 +7,7 @@
 </h2>
 
 <h3 align="center" style="color:#94a3b8;">
-  React · Vue · Node.js · TypeScript · GraphQL · AWS · GCP<br/>
+  React · Vue · Node.js · TypeScript · GraphQL · Python · AWS · GCP<br/>
   <span style="font-weight:600;">10+ Years of Real-World Experience</span>
 </h3>
 
